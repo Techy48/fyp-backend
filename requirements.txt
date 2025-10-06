@@ -1,0 +1,23 @@
+# --- Core Backend ---
+fastapi
+uvicorn[standard]
+python-multipart
+
+# --- Face Recognition Stack ---
+deepface
+keras-facenet
+tensorflow
+opencv-python-headless
+numpy
+
+# --- Machine Learning / Model Handling ---
+scikit-learn
+joblib
+
+# --- Report Generation (PDF) ---
+reportlab
+
+# --- Utilities ---
+pyngrok
+nest_asyncio
+pydantic
