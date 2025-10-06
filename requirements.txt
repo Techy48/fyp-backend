@@ -4,9 +4,9 @@ uvicorn[standard]
 python-multipart
 
 # --- Face Recognition Stack ---
-tensorflow==2.13.0
-keras==2.13.1
-deepface==0.0.90
+tensorflow
+keras
+deepface
 opencv-python-headless
 numpy
 
