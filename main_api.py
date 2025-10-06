@@ -1,5 +1,7 @@
 # main_api.py
 import os
+os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
+import os
 import cv2
 import uuid
 import time
